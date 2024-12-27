@@ -1,0 +1,15 @@
+{
+  "welcomeMessage": "React and TypeScript Demo using the Salt Design System",
+  "firstName": "First Name",
+  "lastName" : "Last Name",
+  "jobTitle" : "Job Title",
+  "companyName" : "Company Name",
+  "email" : "Email",
+  "phone" : "Phone",
+  "address" : "Address",
+  "city" : "City",
+  "state" : "State",
+  "zip" : "Zip",
+  "country" : "Country",
+  "submit" : "Submit"
+}
